@@ -12,7 +12,7 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-hysteria2://0b88573f-9453-4586-b5ec-32a5e37ba11b@vv6.wjjs.fun:8668/?sni=vv6.wjj.cool&insecure=0#hy2-home
+hysteria2://0b88573f-9453-4586-b5ec-32a5e37ba11b@vv6.wjjs.fun:8668/?sni=vv6.wjjs.fun&insecure=0#hy2-home
 `
 
 let urls = [];
